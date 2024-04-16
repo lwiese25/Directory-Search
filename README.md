@@ -3,5 +3,5 @@ This program was created to complete my CS II course. It reads in a file of tab-
 
 
 ## Installation
-To install this project, download all the files from the src folder. These are the primary Java files needed to run the program. Then, run the program through the runner.java class. This will prompt the GUI to launch. You can load any test file from there to test the program.
+To install this project, download all the files from the src folder. These are the primary Java files needed to run the program. Then, run the program through the runner.java class. This will prompt the GUI to launch. To test the program, you can load any test file from the netflix_titles folder. Make sure to use the text files and not the csv.
 
